@@ -44,19 +44,22 @@ To create this clone following Tech stack is used by contributors.
 
 ## Sneak Peak
 #### Login Page:
-<img src=""/>
+<img width="600px" src="https://i.imgur.com/8oWSCMM.png"/>
 
 #### Landing Page:
-<img src=""/>
+<img width="600px" src="https://i.imgur.com/fCzEgw7.png"/>
 
 #### Upload Page:
-<img src=""/>
+<img width="600px" src="https://i.imgur.com/l111CAG.png"/>
 
 #### Profile Page:
-<img src=""/>
+<img width="600px" src="https://i.imgur.com/9MlDSsi.png"/>
+
+#### Tag Page:
+<img width="600px" src="https://i.imgur.com/cqIyXOx.png"/>
 
 #### Inbox Page:
-<img src=""/>
+<img width="600px" src="https://i.imgur.com/VHkVAtK.png"/>
 
 <hr/>
 
